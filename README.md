@@ -12,8 +12,8 @@ As an Android Developer, I enjoy using my obsessive attention to details, to bui
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on a personal Project;
-- 🚀 I’m currently learning [Java Script](https://www.javascript.com/) [Bootstrap](https://getbootstrap.com/) [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) [Django](https://www.djangoproject.com/);
-- 📝 I usually work using [Kotlin](https://kotlinlang.org/) [Android Studio](https://developer.android.com/studio) and [Adobe XD](https://www.adobe.com/in/products/xd.html); 
+- 🚀 I’m currently Perfecting my skills in [Java](https://www.java.com/) and [Kotlin](https://kotlinlang.org/)
+- 📝 I usually work with  [Java](https://www.java.com/)  [Kotlin](https://kotlinlang.org/) [Android Studio](https://developer.android.com/studio) and [Adobe XD](https://www.adobe.com/in/products/xd.html); 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mannanbhat60@gmail.com;
 

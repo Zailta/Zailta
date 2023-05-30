@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mohammad_mannan/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Zailta)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=zailta)
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=zailta)
 
 I am a full-stack Android developer with a bachelor's degree in Computer Science and Engineering. I love programming, designing, speaking and a bit of traveling.
 As an Android Developer, I enjoy using my obsessive attention to details, to build things that tend to stand apart from the rest. Most of my projects are usually self developmental work and for self learning purposes, feel freeto check them out.

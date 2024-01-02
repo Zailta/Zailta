@@ -6,8 +6,11 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=zailta)
 
-I am a Backend developer with a bachelor's degree in Computer Science and Engineering. I usually work with Java Stack. I love programming, designing, speaking and a bit of traveling.
-As an Backend Developer, I enjoy using my obsessive attention to details, to build things that tend to stand apart from the rest. Most of my projects are usually self developmental work and for self learning purposes, feel free to check them out.
+👋 Hi there! I'm a passionate Backend Developer holding a bachelor's degree in Computer Science and Engineering. My expertise lies in the Java Stack, where I thrive on crafting robust and efficient solutions.
+💡 Constantly driven by a love for programming, design, and a bit of travel, I bring an obsessive attention to detail to all my projects. Each endeavor is not just a task but an opportunity to create something exceptional.
+📝 You'll find most of my projects are born out of self-development and a thirst for learning. Feel free to explore them – each line of code is a step in my continuous journey of improvement.
+
+💬 Have questions or need assistance? Ask me anything – I'm here to help.
 
 **Talking about Personal Stuffs:**
 

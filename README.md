@@ -16,10 +16,9 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on a personal Project;
-- 🚀 I’m currently Perfecting my skills in [Java](https://www.java.com/);
+- 👨🏻‍💻 This account is dedicated to personal Projects;
+- 🚀 I’m currently Perfecting my skills in [Java-Stack](https://www.java.com/);
 - 📝 I usually work with  [Java](https://www.java.com/)  [Hibernate](https://hibernate.org/orm/documentation/6.1/) [Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/) [Spring-Boot](https://spring.io/projects/spring-boot/) [REST-APIs]([https://spring.io/projects/spring-boot/](https://spring.io/guides/tutorials/rest/))  ; 
-- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: mannanbhat60@gmail.com;
 
 </br>
